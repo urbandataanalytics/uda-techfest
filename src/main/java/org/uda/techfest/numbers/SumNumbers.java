@@ -8,7 +8,8 @@ public class SumNumbers {
 
     static void SumNumbers(){
         Pipeline pipeline = Pipeline.create();
-        //Your code
+        pipeline.apply("Read File", TextIO.read().from("/files/techfest/numbers.txt"))
+                .apply("Write output", TextIO.write().to("exit"));
         pipeline.run().waitUntilFinish();
     }
 
