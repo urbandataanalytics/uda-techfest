@@ -1,6 +1,6 @@
-#Apache Beam
+# Apache Beam
 
-##Primeros pasos.
+## Primeros pasos.
 
 Antes de empezar es necesario tener instalados los siguientes programas en el ordenador:
 
@@ -13,7 +13,7 @@ preparado para el curso.
 * Instalar Docker: https://docs.docker.com/install/linux/docker-ce/ubuntu/
 * `docker pull villaz/uda-techfest:v1.0`
 
-##Ejecutar código.
+## Ejecutar código.
 
 Para ejecutar el código sigue los siguientes pasos:
 * En tu máquina local entra dentro de la carpeta del proyecto.
