@@ -25,6 +25,8 @@ preparado para el curso.
 Para ejecutar el código sigue los siguientes pasos:
 * En tu máquina local entra dentro de la carpeta del proyecto.
 * `cd uda-techfest`
+* Asignamos permisos para que no haya problemas.
+* `chmod o+rwX -R .`
 * Ejecuta la imagen de Docker.
 * `docker run -v $PWD:/home/user/beam -it villaz/uda-techfest:v1.0`
 * Una vez que estamos dentro del contenedor, para ejecutar el código hay que escribir lo siguiente:
