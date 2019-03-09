@@ -1,5 +1,12 @@
 # Apache Beam
 
+## Presentación
+
+Las diapositivas de la presentación las puedes encontar aquí:
+
+https://github.com/urbandataanalytics/uda-techfest/blob/master/pdf/presentacion.pdf
+
+
 ## Primeros pasos.
 
 Antes de empezar es necesario tener instalados los siguientes programas en el ordenador:
